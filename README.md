@@ -15,8 +15,8 @@ I may be slow to respond.
 
 | Area | Tools / Technologies |
 |------|----------------------|
-| Frontend | HTML, CSS, JavaScript |
-| Backend | JAVA, PHP |
+| Frontend | HTML, CSS, JavaScript, TailwindCSS |
+| Backend | JAVA, PHP, Python |
 | Databases |  MySQL, MongoDB |
 | Tools & Others | Git, Github |
 
